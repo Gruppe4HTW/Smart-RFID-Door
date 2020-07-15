@@ -117,7 +117,7 @@ void setup() {
   if (DoorState == HIGH) {
     doorOpen();
   }
-  //
+  //  Bootsequenz RFID-Modul
   RFID_boot();
   
   
