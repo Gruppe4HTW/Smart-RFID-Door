@@ -3,7 +3,7 @@
  *  Module: Analog- und Digitalelektronik G42
  *
  *  Members of this project: Siad El-Masri, Jens Heinel, Anton Knigge, Jonas Graw sowie ehemals 2 weitere...
- *  Date of Version: 06.15.2020
+ *  Date of Version: 6.15.2020
  *  Description: Servo Engine and RFID And Display- Module in a so far functional state.
  *  Both Sketches above are merged.
  *  
