@@ -25,7 +25,7 @@
   /* Pin Assignments:
    *  
    *  Output:
-   *    Servo = digital 3
+   *    Servo = digital 6
    *    Servo Vcc = 5V
    * 
    RST/Reset   RST          9            
@@ -124,6 +124,7 @@ void setup() {
   
 }
 
+// Organisation der einzelnen Programmaufrufe in Unterprogramm organisiert
 
 void loop() {
   u8x8.setFont(u8x8_font_chroma48medium8_r);
